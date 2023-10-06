@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>artificient.gizo.sdk</groupId>
   <artifactId>core</artifactId>
-  <version>0.1.1-alpha01</version>
+  <version>0.1.1-alpha02</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
