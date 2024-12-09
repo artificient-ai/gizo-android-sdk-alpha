@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>artificient.gizo.sdk</groupId>
   <artifactId>core</artifactId>
-  <version>0.2.3-alpha26</version>
+  <version>0.2.3-alpha27</version>
   <packaging>aar</packaging>
   
   <dependencies>
@@ -180,6 +180,27 @@
       <groupId>com.google.code.gson</groupId>
       <artifactId>gson</artifactId>
       <version>2.8.9</version>
+      <scope>compile</scope>
+    </dependency>
+    <!-- Android Tracing -->
+    <dependency>
+      <groupId>androidx.tracing</groupId>
+      <artifactId>tracing-ktx</artifactId>
+      <version>1.2.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <!-- Coroutines WorkManager -->
+    <dependency>
+      <groupId>androidx.work</groupId>
+      <artifactId>work-runtime-ktx</artifactId>
+      <version>2.9.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <!-- Kotlin Reflect -->
+    <dependency>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <artifactId>kotlin-reflect</artifactId>
+      <version>1.9.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
