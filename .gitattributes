@@ -1,3 +1,1 @@
-*.zip filter=lfs diff=lfs merge=lfs -text
-artificient-gizo-sdk-core-2.0.12-alpha01.aar filter=lfs diff=lfs merge=lfs -text
-artificient-gizo-sdk-core-2.0.12-alpha01 filter=lfs diff=lfs merge=lfs -text
+artificient-gizo-sdk-core-2.0.12-alpha02.aar filter=lfs diff=lfs merge=lfs -text
