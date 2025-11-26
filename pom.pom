@@ -8,7 +8,7 @@
   <version>2.0.12</version>
   <packaging>aar</packaging>
   
-    <dependencies>
+  <dependencies>
     <dependency>
       <groupId>androidx.core</groupId>
       <artifactId>core</artifactId>
