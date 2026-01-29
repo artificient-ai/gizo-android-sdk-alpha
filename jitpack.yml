@@ -3,4 +3,4 @@ jdk:
   
 install:
   - FILE="-Dfile=core-release.aar"
-  - mvn install:install-file $FILE -DgroupId=artificient.gizo.sdk -DartifactId=core -Dversion=2.0.13-alpha12 -Dpackaging=aar -DpomFile=pom.pom -Djavadoc=java-doc.jar -Dsources=java-sources.jar
+  - mvn install:install-file $FILE -DgroupId=artificient.gizo.sdk -DartifactId=core -Dversion=2.0.13-alpha13 -Dpackaging=aar -DpomFile=pom.pom -Djavadoc=java-doc.jar -Dsources=java-sources.jar
